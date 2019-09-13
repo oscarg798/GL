@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreatePost</string>
+    <string name="empty_body_error">You must enter some text</string>
+    <string name="title">Create Post</string>
+</resources>

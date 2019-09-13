@@ -1,0 +1,2 @@
+include ':app', ':core', ':dashboard', ':createpost'
+rootProject.name='GL'
